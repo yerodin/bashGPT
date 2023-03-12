@@ -1,6 +1,6 @@
 # bashGPT
 
-A command-not-found handler which uses chatGPT to figure out what the command would do.
+A command-not-found handler which uses chatGPT to figure out what the command would do and executes it.
 
 command-not-found taken from debian repos, should work with debian and ubuntu
 
